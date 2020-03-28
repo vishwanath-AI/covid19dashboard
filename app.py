@@ -706,7 +706,7 @@ fig_curve_tab.update_layout(
 app = dash.Dash(__name__,
                 assets_folder='./assets/',
                 meta_tags=[
-                    {"name": "author", "content": "Jun Ye"},
+                    {"name": "author", "content": "vish"},
                     {"name": "keywords", "content": "COVID-19, dashborad, global cases, coronavirus, monitor"},
                     {"name": "description", "content": "The coronavirus COVID-19 monitor/dashboard provides up-to-date data and map for the global spread of coronavirus. In the meanwile, please keep calm, stay home and wash your hand!"},
                     {"property": "og:title",
@@ -723,7 +723,7 @@ app = dash.Dash(__name__,
                         "content": "Coronavirus COVID-19 Outbreak Global Cases Monitor Dashboard"},
                     {"name": "twitter:description",
                         "content": "The coronavirus COVID-19 monitor/dashboard provides up-to-date data and map for the global spread of coronavirus. In the meanwile, please keep calm, stay home and wash your hand!"},
-                    {"name": "twitter:image", "content": "https://junye0798.com/post/build-a-dashboard-to-track-the-spread-of-coronavirus-using-dash/featured_hu031431b9019186307c923e911320563b_1304417_1200x0_resize_lanczos_2.png"},
+                    {"name": "twitter:image", "content": "https://malwaregeeks.com/post/build-a-dashboard-to-track-the-spread-of-coronavirus-using-dash/featured_hu031431b9019186307c923e911320563b_1304417_1200x0_resize_lanczos_2.png"},
                     {"name": "viewport",
                         "content": "width=device-width, height=device-height, initial-scale=1.0"}
                 ]
